@@ -1,0 +1,15 @@
+Link para download do git: https://git-scm.com/downloads
+Comandos git:
+git init -iniciar repositorio
+git add -mover arquivos
+git commit -cria o commit
+ls - lista as pastas do diretorio
+ls -a -lista arquivos ocultos
+mkdir livro-receitas - cria um repositorio com o nome livro-receitas
+cd livro-receitas - caminha até a pasta livro receitas
+cd .. - volta um nivel
+git status - mostra o status
+
+Configuração inicial git:
+git config --global user.email "email vai aqui"
+git config --global user.name "nome vai aqui"
